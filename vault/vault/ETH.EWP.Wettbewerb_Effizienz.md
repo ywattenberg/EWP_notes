@@ -2,7 +2,7 @@
 id: 64gui8wxflvx8iiegyvdd8t
 title: Wettbewerb_Effizienz
 desc: ''
-updated: 1651243608256
+updated: 1651248523877
 created: 1651241920631
 ---
 
@@ -12,7 +12,7 @@ created: 1651241920631
 Definitionsmerkmale eines Marktes mit vollkommener Konkurrenz:
 - Keinerlei Marktmacht: Einzelne Anbieter oder Nachfrager können Marktpreise nicht beeinflussen; reine Mengenanpassung an jeweilige Marktpreise
 - Keine Transaktionskosten
-    - freier zugang zum markt
+    - freier Zugang zum Markt
     - kostenlose Mobilität von Gütern
     - Unbegrenzte teilbarkeit von Gütern
 
@@ -38,3 +38,35 @@ $S_i$ - Supply on market $i$
 # Erster Hauptsatz der Wohlfahrtsökonomik
 Jedes allgemeine Wettbewerbsgleichgewicht ist
 unter bestimmten Voraussetzungen pareto‐effizient
+
+- Über das zustande kommen eines Gleichgewichtes trift der erste Hauptsatz keine Aussage 
+
+Angenommen das vollkommenen Wettbewerb geprägte Märkte immer zu einem allgemeinen Wettbewerbsgleichgewicht tendieren
+So folgt aus dem ersten Hauptsatz:
+- Durch vollkommenen Wettbewerb geprägte Märkte erzeugen pareto‐effiziente Zustände.
+    - Alle verfügbaren resscourcen werden optimal genutzt [vgl. Thema 1](ETH.EWP.Wohlfahrt.md#Pareto-Optimalitaet)
+- Die individuellen, nicht zentral koordinierten – auf Optimierung ihres eigenen Nutzens gerichteten – Handlungen der Markakteure erzeugen effiziente Zustände. Es braucht keinen zentralen Planer zur Herstellung von Effizienz.
+
+Hypothese: Ein Wettbewerbsmarkt kann Effizienz sogar besser herstellen als ein
+zentraler Planer
+
+**Vorsicht**: Damit diese optima erreicht wereden müssen viele (unrealistische) Annahmen getroffen werden
+
+# Marginalbedingungen
+Perspektiven:
+- Oben: Erster Hauptsatz «statuiert», dass Wettbewerbsmarktgleichgewichte unter bestimmten Voraussetzungen (pareto‐)effiziente Ergebnisse liefern.
+- Nun: Betrachtung der (Pareto‐)Effizienz von Wettbewerbsmarktgleichgewichten aus alternativer Perspektive.
+
+## Die drei Marginalbedingungen für Effizienz
+1. Marginaler Nutzen aller Konsumenten/Nachfrager ist gleich
+$$
+\forall i \in \{1,...,I \} \frac{\partial U}{\partial Q} = \frac{\partial U_i}{\partial Q_i}
+$$
+2. Marginal Kosten aller Produzenten/Anbieter ist gleich 
+$$
+\forall j \in \{1,...,J \} \frac{\partial C}{\partial Q} = \frac{\partial C_j}{\partial Q_j}
+$$
+3. Marginal Nutzen aller Konsumenten entspricht marginal Kosten aller Produzenten
+$$
+\forall j, i \; \frac{\partial U_i}{\partial Q_i} = \frac{\partial C_j}{\partial Q_j}
+$$

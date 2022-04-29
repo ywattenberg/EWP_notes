@@ -2,7 +2,7 @@
 id: 5v96xv0zl1fmwlzzfx6kynj
 title: Wohlfahrt
 desc: ''
-updated: 1651242065105
+updated: 1651246812414
 created: 1651231207672
 ---
 
@@ -95,3 +95,5 @@ Daraus folgt die Präferenzordnung ist uneindeutig d.h.
 $$ 
 \text{Bildung > Tunnel > Kampfjet > Bildung}
 $$
+
+# [Kontrolfragen](slides/Thema1_Grundlagen.pdf)
