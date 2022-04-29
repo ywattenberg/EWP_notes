@@ -2,7 +2,7 @@
 id: 64gui8wxflvx8iiegyvdd8t
 title: Wettbewerb_Effizienz
 desc: ''
-updated: 1651248523877
+updated: 1651259484005
 created: 1651241920631
 ---
 
@@ -70,3 +70,82 @@ $$
 $$
 \forall j, i \; \frac{\partial U_i}{\partial Q_i} = \frac{\partial C_j}{\partial Q_j}
 $$
+
+## Gültigkeit der Marginalbedingungen
+### 1
+- Für jede position (p) der individuellen Nachfragekurve gilt:
+$$
+\frac{\partial U_i}{\partial Q_i} = p
+$$
+
+- Im Marktgleichgewicht mit Gleichgewichtspreis $p*$ gilt:
+ $$
+\frac{\partial U_1}{\partial Q_1} = ... = \frac{\partial U_I}{\partial Q_I} = p*
+$$
+
+### 2
+- Für jede position (p) der individuellen Nachfragekurve gilt:
+$$
+\frac{\partial C_j}{\partial Q_j} = p
+$$
+
+- Im Marktgleichgewicht mit Gleichgewichtspreis $p*$ gilt:
+$$
+\frac{\partial C_1}{\partial Q_1} = ... = \frac{\partial C_J}{\partial Q_J} = p*
+$$
+
+### 3
+- Aus den oberen Gleichungen ergibt sich, dass im Marktgleichgewicht gilt:
+$$
+\forall j, i \; \frac{\partial U_i}{\partial Q_i} = \frac{\partial C_j}{\partial Q_j} = p* 
+$$
+
+### Gradfische-Darstellung
+![](img/2022-04-29-20-51-58.png)
+
+## Voraussetzungen
+- Präferenzen (Nutzenfunktionen) stetig und monoton (mehr ist besser)
+- Produktionsfunktionen stetig
+- Keine Externalitäten, d. h. u. a.
+    - Präferenzen nur von eigenem Güterbündel abhängig
+    - Produktionsfunktionen nur von eigenen Inputs abhängig
+- Vollständige Information aller Marktakteure
+
+Grundlegende Voraussetzungen
+- Vollständiger Wettbewerb (vgl. [[ETH.EWP.Wettbewerb_Effizienz#definition-vollkommene-konkurrenz-bzw-vollkommener-wettbewerb]])
+- Keine Grössenvorteile bzw. keine zunehmenden Skalenerträge
+- Keine Transaktionskosten (vgl. [[ETH.EWP.Wettbewerb_Effizienz#definition-vollkommene-konkurrenz-bzw-vollkommener-wettbewerb]])
+- Vollständige Rationalität der Marktakteure
+
+# Wettbewerb und utilitaristische Wohlfahrtsfunktion
+Im Wettbewerbsmarktgleichgewicht wird die soziale Wohlfahrt bzw.
+der 'soziale Überschuss' gemäss der utilitaristischen Wohlfahrtsfunktion
+maximiert.
+Der soziale Überschuss setzt sich zusammen aus Konsumentenrente
+und Produzentenrente.
+
+![](img/2022-04-29-21-04-09.png)
+
+# Zweiter Hauptsatz der Wohlfahrtsökonomik
+Unter bestimmten Voraussetzungen können Märkte
+mit vollkommenem Wettbewerb bei geeigneter Wahl
+der Anfangsausstattungen bzw. von Kopfsteuern jede
+gewünschte pareto‐effiziente Allokation erzielen
+
+## Wettbewerb und Gerechtigkeit
+- Erster Hauptsatz statuiert Effizienz von Wettbewerbsmärkten
+- Aber: Erster Hauptsatz sagt nichts über Gerechtigkeit
+- Wettbewerbsmarktergebnisse sind nicht notwendigerweise auch 'gerecht'
+- M.a.W. sofern das gewählte normative Wohlfahrtskriterium nicht dasjenige der Pareto‐Optimalität ist (vgl. [[Wohlfahrtsökonomik und Werturteile| ETH.EWP.Wohlfahrt#soziale-wohlfahrtsfunktion]]) sind Wettbewerbsmarktergebnisse in normativer Hinsicht nicht notwendigerweise optimal.
+
+## Anfangsausstattung
+- Grosse Menge von Wettbewerbsmarktgleichgewichten
+- Welches konkrete Gleichgewicht – und damit welche konkrete paretoeffiziente Allokation – sich einstellt, hängt von der Anfangsausstattung der Marktakteure ab.
+
+## Voraussetzungen
+- Alle Voraussetzungen für die Gültigkeit des ersten Hauptsatzes
+- Kopfsteuern ohne Transaktionskosten einführbar
+- Konvexe Präferenzen
+- Konkave Produktionsfunktionen
+
+# [Kontrollfragen](slides/Thema2_WettbewerbUndEffizienz.pdf)
