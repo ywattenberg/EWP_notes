@@ -1,9 +1,9 @@
 ---
-id: dmnrnucosxxk7hqyp1azfz0
+id: 5qthhzstdamqu20dzmalrwy
 title: Root
 desc: ''
-updated: 1651165571113
-created: 1651165571114
+updated: 1651234859375
+created: 1651234859375
 ---
 # Welcome to Dendron
 
