@@ -2,7 +2,7 @@
 id: 64gui8wxflvx8iiegyvdd8t
 title: Thema_2
 desc: ''
-updated: 1651259484005
+updated: 1651312334978
 created: 1651241920631
 ---
 
@@ -44,7 +44,7 @@ unter bestimmten Voraussetzungen pareto‐effizient
 Angenommen das vollkommenen Wettbewerb geprägte Märkte immer zu einem allgemeinen Wettbewerbsgleichgewicht tendieren
 So folgt aus dem ersten Hauptsatz:
 - Durch vollkommenen Wettbewerb geprägte Märkte erzeugen pareto‐effiziente Zustände.
-    - Alle verfügbaren resscourcen werden optimal genutzt [vgl. Thema 1](ETH.EWP.Wohlfahrt.md#Pareto-Optimalitaet)
+    - Alle verfügbaren resscourcen werden optimal genutzt [vgl. Thema 1](ETH.EWP.Thema_1.md#pareto-optimalitaet)
 - Die individuellen, nicht zentral koordinierten – auf Optimierung ihres eigenen Nutzens gerichteten – Handlungen der Markakteure erzeugen effiziente Zustände. Es braucht keinen zentralen Planer zur Herstellung von Effizienz.
 
 Hypothese: Ein Wettbewerbsmarkt kann Effizienz sogar besser herstellen als ein
