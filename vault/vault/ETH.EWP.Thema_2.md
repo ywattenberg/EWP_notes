@@ -1,6 +1,6 @@
 ---
 id: 64gui8wxflvx8iiegyvdd8t
-title: Wettbewerb_Effizienz
+title: Thema_2
 desc: ''
 updated: 1651259484005
 created: 1651241920631
@@ -112,9 +112,9 @@ $$
 - Vollständige Information aller Marktakteure
 
 Grundlegende Voraussetzungen
-- Vollständiger Wettbewerb (vgl. [[ETH.EWP.Wettbewerb_Effizienz#definition-vollkommene-konkurrenz-bzw-vollkommener-wettbewerb]])
+- Vollständiger Wettbewerb (vgl. [[ETH.EWP.Thema_2#definition-vollkommene-konkurrenz-bzw-vollkommener-wettbewerb]])
 - Keine Grössenvorteile bzw. keine zunehmenden Skalenerträge
-- Keine Transaktionskosten (vgl. [[ETH.EWP.Wettbewerb_Effizienz#definition-vollkommene-konkurrenz-bzw-vollkommener-wettbewerb]])
+- Keine Transaktionskosten (vgl. [[ETH.EWP.Thema_2#definition-vollkommene-konkurrenz-bzw-vollkommener-wettbewerb]])
 - Vollständige Rationalität der Marktakteure
 
 # Wettbewerb und utilitaristische Wohlfahrtsfunktion
@@ -136,7 +136,7 @@ gewünschte pareto‐effiziente Allokation erzielen
 - Erster Hauptsatz statuiert Effizienz von Wettbewerbsmärkten
 - Aber: Erster Hauptsatz sagt nichts über Gerechtigkeit
 - Wettbewerbsmarktergebnisse sind nicht notwendigerweise auch 'gerecht'
-- M.a.W. sofern das gewählte normative Wohlfahrtskriterium nicht dasjenige der Pareto‐Optimalität ist (vgl. [[Wohlfahrtsökonomik und Werturteile| ETH.EWP.Wohlfahrt#soziale-wohlfahrtsfunktion]]) sind Wettbewerbsmarktergebnisse in normativer Hinsicht nicht notwendigerweise optimal.
+- M.a.W. sofern das gewählte normative Wohlfahrtskriterium nicht dasjenige der Pareto‐Optimalität ist (vgl. [[Wohlfahrtsökonomik und Werturteile|ETH.EWP.Thema_1#soziale-wohlfahrtsfunktion]]) sind Wettbewerbsmarktergebnisse in normativer Hinsicht nicht notwendigerweise optimal.
 
 ## Anfangsausstattung
 - Grosse Menge von Wettbewerbsmarktgleichgewichten
