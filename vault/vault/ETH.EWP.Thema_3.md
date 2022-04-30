@@ -2,7 +2,7 @@
 id: 1lpr5dllk6fuosjnfzg4vjc
 title: Thema_3
 desc: ''
-updated: 1651314769828
+updated: 1651319610876
 created: 1651310517466
 ---
 # Wettbewerb
@@ -47,17 +47,16 @@ $$
 ### Grafisch
 ![](img/2022-04-30-11-39-22.png) 
 
-*Wenn eine Einheit mehr als 4700 produziert wird, erhöhen sich die Kosten mehr als der
-Umsatz, weil für alle Einheiten bis zur 4700ten Einheit der Preis unter 35 gesenkt
-werden muss. (Der Monopolist kann nicht Preis und Menge gleichzeitig diktieren,
-sondern nur eins von beiden.) Deshalb wird der Gewinnblock kleiner als im sog.
-Cournot‐Punkt. Der Verlust an der Oberseite des dunkelgelben Quadrats ist ab dem
-Cournotpunkt grösser als der Zugewinn an dessen rechter Seite, m.a.W., der Effekt der
-Preissenkung auf den Gewinn ist stärker als der Effekt des Umsatzzuwachses. Vor der
-4700ten Einheit ist es andersherum.
-Hinweis: Der Verlust an der Oberseite des dunkelgelben Quadrats minus dem Zugewinn
-an dessen rechter Seite entspricht dem Umsatzzuwachs minus dem Kostenzuwachs.
-4.7/35: Cournot‐Punkt*
+> Wenn eine Einheit mehr als 4700 produziert wird, erhöhen sich die Kosten mehr als der
+> Umsatz, weil für alle Einheiten bis zur 4700ten Einheit der Preis unter 35 gesenkt
+> werden muss. (Der Monopolist kann nicht Preis und Menge gleichzeitig diktieren,
+> sondern nur eins von beiden.) Deshalb wird der Gewinnblock kleiner als im sog.
+> Cournot‐Punkt. Der Verlust an der Oberseite des dunkelgelben Quadrats ist ab dem
+> Cournotpunkt grösser als der Zugewinn an dessen rechter Seite, m.a.W., der Effekt der
+> Preissenkung auf den Gewinn ist stärker als der Effekt des Umsatzzuwachses. Vor der
+> 4700ten Einheit ist es andersherum.
+> Hinweis: Der Verlust an der Oberseite des dunkelgelben Quadrats minus dem Zugewinn
+> an dessen rechter Seite entspricht dem Umsatzzuwachs minus dem Kostenzuwachs. 4.7/35: Cournot‐Punkt*
 
 ![](img/2022-04-30-11-43-50.png)
 
