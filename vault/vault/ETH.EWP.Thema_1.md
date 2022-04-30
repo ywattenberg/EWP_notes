@@ -2,7 +2,7 @@
 id: 5v96xv0zl1fmwlzzfx6kynj
 title: Thema_1
 desc: ''
-updated: 1651246812414
+updated: 1651319843112
 created: 1651231207672
 ---
 
@@ -14,6 +14,7 @@ beschäftigt
 - Grundlage der Wirtschaftspolitik
 
 # Angebot und Nachfrage
+**Im Table ist vermutlich 'supplied' gemeint nicht 'demanded'**
 ![](img/2022-04-29-13-45-25.png)
 
 Aggregierte Angebotskurve: Summe aller individuellen
