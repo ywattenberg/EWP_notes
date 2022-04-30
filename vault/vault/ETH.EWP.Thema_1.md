@@ -2,7 +2,7 @@
 id: 5v96xv0zl1fmwlzzfx6kynj
 title: Thema_1
 desc: ''
-updated: 1651319843112
+updated: 1651320758982
 created: 1651231207672
 ---
 
@@ -35,7 +35,7 @@ Die Nutzenfunktion (Utilityfunction) von einem Individuum ($i \in \{1,...,l\}$) 
 
 Die Soziale Wohlfahrtsfunktion ($W(U_1, ..., U_l)$) aggregiert individuelle nutzen.
 
-## Pareto-Optimalitaet
+## Pareto-Optimalität
 
 ### Definition
 Pareto-Optimal:
@@ -46,16 +46,15 @@ ein anderes Individuum schlechter zu stellen.
 (Nur $z_1$ ist nicht Pareto optimal)
 
 ### Als normatives Kriterium 
-Gemäss Pareto‐Optimalität als normativen Kriterium ist eine wirt‐
-schaftspolitische Massnahme nur dann gerechtfertigt, wenn sie –
+Gemäss Pareto‐Optimalität als normativen Kriterium ist eine wirtschaftspolitische Massnahme nur dann gerechtfertigt, wenn sie –
 relativ zur Ausgangslage – eine Pareto‐Verbesserung erzeugt. 
 
 - Hat 'Bias' zum Status Quo (gerechtfertigt?)
-- Nur ordinale Nutzenmessung notwendig (im Gegensatz zu Ansätzen basierend auf Aggregatsfunktionen.
-- Individuen mussen ihre eigen Werte in konsistenten Reihenfolge bringen (oft nicht möglich)
+- Nur ordinale Nutzenmessung notwendig (im Gegensatz zu Ansätzen basierend auf Aggregatsfunktionen).
+- Individuen müssen ihre eigen Werte in konsistenten Reihenfolge bringen (oft nicht möglich)
 ## Wohlfahrtsfunktion und Werteurteile
 - verschiedene normative Grundeinstellungen -> verschiedene Massstäbe
-- Wahl eines Massstabs impliziert Werteurteil
+- Wahl eines Massstabs impliziert/ist ein Werteurteil
 
 ## Utilitaristische Wohlfahrtsfunktion
 $$
@@ -74,7 +73,7 @@ Maximiert den Nutzen des "ärmsten" Individuums
 
 ## Kritik
 - Normative messung des Nutzen schwierig (schwer bis nicht ermittelbar)
-- interpersoneller Vergleich von Nutzen nötig (evtl. nich möglich)
+- interpersoneller Vergleich von Nutzen nötig (evtl. nicht möglich)
 - Ist Präferenz eines Individuums einfach hinzunehmen? (Diese Kritik gilt allgemein für wohlfahrtsökonomische Ansätze)
 - Kritik an utilitaristischer Nutzenfunktion: Ist eine wirtschaftspolitische Massnahme gerechtfertigt, wenn dadurch zwar die Mehrheit gewinnt, aber eine (substantielle) Minderheit verliert
 - Trotz Problemen mit Utilitaristische Wohlfahrtsfunktion hohe Beliebtheit

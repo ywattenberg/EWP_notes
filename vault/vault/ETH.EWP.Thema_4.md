@@ -2,7 +2,7 @@
 id: tz8skxhcw1m4tn6opmcjzzt
 title: Thema_4
 desc: ''
-updated: 1651241582697
+updated: 1651323434065
 created: 1651235361464
 ---
 
@@ -86,7 +86,7 @@ $prob_s$: Wahrscheinlichkeit, dass Ausgaben $C()$ zu einen neuen Produkt und dam
 Optimierungskalkül von Unternehmen $i$:
 
 $$
-\underset{x_i}{max} prob_i(C(x_i)) W_i - C(x_i)
+\underset{x_i}{max} \; prob_i(C(x_i)) W_i - C(x_i)
 $$
 
 $$
@@ -96,7 +96,7 @@ $$
 Optimierungskalkül eines sozialen Planers (gesamtgesellschaftliches Optimierungskalkül):
 
 $$
-\underset{x_i}{max} prob_s(C(x_i)) W_s + prob_i(C(x_i)) - C(x_i)
+\underset{x_i}{max} \; prob_s(C(x_i)) W_s + prob_i(C(x_i)) - C(x_i)
 $$
 
 $$
@@ -115,9 +115,9 @@ Optimaler Faktorinput aus Sicht des Unternehmens ist kleiner als der aus Sicht d
 
 # Positive Externalitäten: Beispiele
 
-## F&E, Bildung und Gesundheit
+## F&E, Bildung und Gesundheit
 
-- Investition in Bildung durch Individium kann profit für gesamte Gesellschaft generieren. Höhere Produktivität des Individuums erhöht auch die Produktivität andeere Gesellschaftsmitglieder. Jedoch beachtten die Individuen, dies nicht hinreichend bei ihren Bildungsentscheiden.
+- Investition in Bildung durch Individium kann profit für gesamte Gesellschaft generieren. Höhere Produktivität des Individuums erhöht auch die Produktivität andere Gesellschaftsmitglieder. Jedoch beachten die Individuen, dies nicht hinreichend bei ihren Bildungsentscheiden.
 - Gesamtgesellschaft profitiert von gesundem Lebensstil des Individuums, durch Reduktion der Gesundheitskosten.
   **Annahme**: Krankenversicherung ist wenigstens zum Teil staatlich bzw. durch die Allgemeinheit finanziert.
 

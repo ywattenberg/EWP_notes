@@ -2,12 +2,12 @@
 id: tjwlocymm9m0iof6zt8jw92
 title: Thema_6
 desc: ''
-updated: 1651311867779
+updated: 1651324735167
 created: 1651243315873
 ---
 
 <!-- TODO: Add link -->
-[Rekapitulation Erster Hauptsatz Wohlfahrtsökonomie]()
+[Rekapitulation Erster Hauptsatz Wohlfahrtsökonomie](ETH.EWP.Thema_2.md)
 
 # Tendenz zu Monopolisierung
 - Unternehmen zielen "natürlicherweise" auf eine Monopolstellung ab, da dies ihre Gewinne steigert. 
